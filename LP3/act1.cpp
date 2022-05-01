@@ -1,4 +1,3 @@
-// C++ Shell Sort Algorithm
 #include <iostream>
 #include <cstdlib> // rand()
 #include <ctime> // srand()
